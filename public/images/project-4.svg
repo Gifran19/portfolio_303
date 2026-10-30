@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-label="Placeholder Portal Berita Dinamis">
+  <rect width="800" height="500" fill="#112240"/>
+  <!-- Newspaper / Content layout mockup -->
+  <rect x="100" y="70" width="600" height="360" rx="12" fill="#0a192f" stroke="#233554" stroke-width="2"/>
+  <rect x="100" y="70" width="600" height="48" rx="12" fill="#233554"/>
+  <rect x="130" y="86" width="120" height="16" rx="4" fill="#64ffda"/>
+  <circle cx="650" cy="94" r="8" fill="#64ffda" opacity=".8"/>
+  <circle cx="620" cy="94" r="8" fill="#8892b0" opacity=".5"/>
+  <!-- Featured news block -->
+  <rect x="130" y="140" width="320" height="150" rx="8" fill="#112240" stroke="#233554"/>
+  <rect x="150" y="240" width="180" height="12" rx="3" fill="#64ffda"/>
+  <rect x="150" y="260" width="260" height="8" rx="2" fill="#8892b0" opacity=".6"/>
+  <!-- Side articles -->
+  <rect x="470" y="140" width="200" height="65" rx="6" fill="#112240" stroke="#233554"/>
+  <rect x="485" y="155" width="120" height="10" rx="2" fill="#64ffda"/>
+  <rect x="485" y="175" width="170" height="8" rx="2" fill="#8892b0" opacity=".5"/>
+  <rect x="470" y="225" width="200" height="65" rx="6" fill="#112240" stroke="#233554"/>
+  <rect x="485" y="240" width="110" height="10" rx="2" fill="#64ffda"/>
+  <rect x="485" y="260" width="170" height="8" rx="2" fill="#8892b0" opacity=".5"/>
+  <!-- Bottom columns -->
+  <rect x="130" y="310" width="160" height="90" rx="6" fill="#112240" stroke="#233554"/>
+  <rect x="310" y="310" width="160" height="90" rx="6" fill="#112240" stroke="#233554"/>
+  <rect x="490" y="310" width="180" height="90" rx="6" fill="#112240" stroke="#233554"/>
+</svg>
+

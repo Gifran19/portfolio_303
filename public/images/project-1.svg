@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-label="Placeholder proyek 1">
+  <rect width="800" height="500" fill="#112240"/>
+  <rect x="120" y="90" width="560" height="320" rx="10" fill="#0a192f" stroke="#233554" stroke-width="2"/>
+  <rect x="120" y="90" width="560" height="40" rx="10" fill="#233554"/>
+  <circle cx="148" cy="110" r="6" fill="#64ffda"/><circle cx="170" cy="110" r="6" fill="#64ffda" opacity=".7"/><circle cx="192" cy="110" r="6" fill="#64ffda" opacity=".4"/>
+  <rect x="150" y="160" width="220" height="16" rx="3" fill="#64ffda"/>
+  <rect x="150" y="192" width="300" height="10" rx="3" fill="#8892b0" opacity=".6"/>
+  <rect x="150" y="212" width="260" height="10" rx="3" fill="#8892b0" opacity=".4"/>
+  <rect x="150" y="260" width="150" height="120" rx="6" fill="#112240" stroke="#233554"/>
+  <rect x="320" y="260" width="150" height="120" rx="6" fill="#112240" stroke="#233554"/>
+  <rect x="490" y="260" width="160" height="120" rx="6" fill="#112240" stroke="#233554"/>
+</svg>
