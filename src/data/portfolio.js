@@ -348,6 +348,28 @@ export const portfolio = {
       url: 'https://drive.google.com/file/d/1xW4t_t9DewACO5TDGnFlQ9Y3v32jBx93/view?usp=sharing',
       buttonText: 'OPEN IN GOOGLE DRIVE',
     },
+    {
+      id: 'tugas-5',
+      title: 'JOB APPLICATION LETTER',
+      description:
+        'My midterm answer for Part A: a formal job application letter for a Web / App Developer position, highlighting my technical skills and practical internship experience at Dinas Kominfo Wonosobo.',
+      type: 'PDF',
+      meeting: 'UTS · PART A',
+      date: '',
+      url: 'https://drive.google.com/file/d/1BEoiJ01Cx5iph0Jh4FR2L6Y1R_zQueXH/view?usp=sharing',
+      buttonText: 'OPEN IN GOOGLE DRIVE',
+    },
+    {
+      id: 'tugas-6',
+      title: 'THREE-MINUTE VIDEO PRESENTATION',
+      description:
+        'My midterm answer for Part B: a three-minute video in English about the specific technical skills I developed during my internship and how they prepare me for the position.',
+      type: 'Video',
+      meeting: 'UTS · PART B',
+      date: '',
+      url: '',
+      buttonText: 'OPEN IN GOOGLE DRIVE',
+    },
   ],
 
   /* ---------- Contact ---------- */
