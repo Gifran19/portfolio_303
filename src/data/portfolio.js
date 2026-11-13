@@ -367,7 +367,7 @@ export const portfolio = {
       type: 'Video',
       meeting: 'UTS · PART B',
       date: '',
-      url: '',
+      url: 'https://drive.google.com/file/d/18ulcR5xTytbk9yAY7pD86y_ITUUmp6Hh/view?usp=sharing',
       buttonText: 'OPEN IN GOOGLE DRIVE',
     },
   ],
